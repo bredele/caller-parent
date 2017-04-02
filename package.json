@@ -1,0 +1,24 @@
+{
+  "name": "caller-parent",
+  "version": "1.0.0",
+  "description": "Get path of caller function with stack trace parent",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/caller-parent.git"
+  },
+  "keywords": [
+    "caller",
+    "stack",
+    "trace"
+  ],
+  "author": "Olvier <olivier.wietrich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/caller-parent/issues"
+  },
+  "homepage": "https://github.com/bredele/caller-parent#readme"
+}
