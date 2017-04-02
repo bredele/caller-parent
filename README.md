@@ -6,8 +6,7 @@
   [![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide/blob/master/community.md)
 
 
-Trace caller function and return path before parent module appears in the trace stack.
-
+Trace caller module and return path before parent module appears in the trace stack.
 
 ## Usage
 

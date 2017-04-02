@@ -1,7 +1,7 @@
 {
   "name": "caller-parent",
   "version": "1.0.0",
-  "description": "Get path of caller function with stack trace parent",
+  "description": "Get path of caller module with stack trace parent",
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.js"
