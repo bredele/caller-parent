@@ -1,6 +1,4 @@
 # Caller parent
-
-  > [![Build Status](https://travis-ci.org/bredele/caller-parent.svg?branch=master)](https://travis-ci.org/bredele/caller-parent)
   [![NPM](https://img.shields.io/npm/v/caller-parent.svg)](https://www.npmjs.com/package/caller-parent)
   [![Downloads](https://img.shields.io/npm/dm/caller-parent.svg)](http://npm-stat.com/charts.html?package=caller-parent)
   [![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide/blob/master/community.md)
